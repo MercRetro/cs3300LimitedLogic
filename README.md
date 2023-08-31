@@ -1,2 +1,2 @@
-# cs3300LimitedLogic
+# cs3300LimitedLogics
 Team repository for Limited Logic
